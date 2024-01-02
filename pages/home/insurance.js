@@ -140,7 +140,7 @@ const Insurance = () => {
 				Feedback Section Eleven
 			=====================================================
 			*/}
-      <div
+      {/* <div
         className="feedback-section-eleven position-relative mt-200 pt-100 pb-70 lg-mt-120 lg-pt-70 lg-pb-50"
         data-aos="fade-up"
       >
@@ -154,21 +154,18 @@ const Insurance = () => {
             <Testimonial />
           </div>
 
-          {/* /.slider-wrapper */}
         </div>
-        {/* /.inner-content */}
-      </div>
+      </div> */}
       {/* /.feedback-section-eleven */}
       {/* =============================================
 				Feature Section Thirty Eight
 			============================================== 
 			*/}
-      <div className="fancy-feature-thirtyEight mt-140 lg-mt-100">
+      {/* <div className="fancy-feature-thirtyEight mt-140 lg-mt-100">
         <div className="container">
           <AppBanner />
         </div>
-        {/* /.container */}
-      </div>
+      </div> */}
       {/* /.fancy-feature-thirtyEight */}
       {/*=====================================================
 				Fancy Short Banner Thirteen
@@ -276,9 +273,10 @@ const Insurance = () => {
           <div className="inner-wrapper">
             <div className="row justify-content-between">
               <div className="col-lg-3 footer-intro mb-40">
-                <div className="logo">
+                <div className="logo logo-footer">
                   <Link href="/">
-                    <img src="/images/logo/logo_02.png" alt="logo" width={95} />
+										Alco.
+                    {/* <img src="/images/logo/logo_02.png" alt="logo" width={95} /> */}
                   </Link>
                 </div>
                 <p className="text-white opacity-75 fs-18 mt-15 mb-45 lg-mb-10">

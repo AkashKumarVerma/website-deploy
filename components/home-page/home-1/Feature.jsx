@@ -6,7 +6,7 @@ const Feature = () => {
       background: "#fffee7",
       title: (
         <>
-          Regulated by <br /> WICO.
+          Transparent <br /> Process.
         </>
       ),
       description: "100% Reliable",

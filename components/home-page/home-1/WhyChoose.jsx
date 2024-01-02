@@ -2,23 +2,23 @@ const accordionItems = [
   {
     id: 1,
     icon: "/images/icon/icon_108.svg",
-    title: "Lowest Price.",
+    title: "Great Value, Affordable Prices",
     content:
-      "Practice what you learned on realistic lorem quis test questions testing.",
+      "We focus on giving you the best without the high costs. Our promise of pocket-friendly prices ensures top-quality service that won’t strain your budget.",
   },
   {
     id: 2,
     icon: "/images/icon/icon_109.svg",
-    title: "Fast Process & Loan",
+    title: "Cleanr & Quick",
     content:
-      "Practice what you learned on realistic lorem quis test questions testing.",
+      "We keep things simple and straightforward. Our process is easy to follow, keeping you informed all the way for a hassle-free experience.",
   },
   {
     id: 3,
     icon: "/images/icon/icon_110.svg",
-    title: "Guaranteed Return & Claim",
+    title: "Always Excellent",
     content:
-      "Practice what you learned on realistic lorem quis test questions testing.",
+      "We’re all about top-notch quality. Our team works hard to make sure every service goes beyond what you expect, making your happiness our priority.",
   },
 ];
 

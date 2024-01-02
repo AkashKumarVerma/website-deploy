@@ -1123,7 +1123,20 @@ body .btn-twentySix:hover:after {
   min-height: 50px;
   display: flex;
   align-items: center;
+	font-weight: 700;
+	font-size: 36px;
+	color: #000000;
 }
+
+.logo-footer {
+	min-height: 50px;
+  display: flex;
+  align-items: center;
+	font-weight: 700;
+	font-size: 36px;
+	color: #ffffff;
+}
+
 .theme-main-menu .contact-btn-one {
   line-height: 52px;
   border-radius: 6px;
@@ -6877,7 +6890,7 @@ body .btn-twentySix:hover:after {
   color: var(--prime-ten);
 }
 .hero-banner-ten .search-area .nice-select {
-  width: 285px;
+  width: 300px;
   height: 60px;
   border: 1px solid #dcdcdc;
   border-radius: 7px 0 0 7px;
@@ -6897,7 +6910,7 @@ body .btn-twentySix:hover:after {
   color: #fff;
 }
 .hero-banner-ten .search-area .zip-code-input {
-  width: 170px;
+  width: 200px;
   height: 60px;
   background: #fafafa;
   border: 1px solid #dcdcdc;
@@ -6907,7 +6920,7 @@ body .btn-twentySix:hover:after {
   padding: 0 5px 0 25px;
 }
 .hero-banner-ten .search-area button {
-  width: 110px;
+  width: 130px;
   height: 60px;
   background: var(--prime-ten);
   border-radius: 0 7px 7px 0;

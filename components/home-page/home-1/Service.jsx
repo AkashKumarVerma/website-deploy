@@ -3,22 +3,22 @@ import Link from "next/link";
 const services = [
   {
     icon: "images/icon/icon_104.svg",
-    title: "Home Loan",
+    title: "Development",
     delayAnim: 0,
   },
   {
     icon: "images/icon/icon_105.svg",
-    title: "Travel Insurance",
+    title: "Design",
     delayAnim: 100,
   },
   {
     icon: "images/icon/icon_106.svg",
-    title: "Insure the Car",
+    title: "Consulation",
     delayAnim: 200,
   },
   {
     icon: "images/icon/icon_107.svg",
-    title: "Health Insurance",
+    title: "Support",
     delayAnim: 300,
   },
 ];

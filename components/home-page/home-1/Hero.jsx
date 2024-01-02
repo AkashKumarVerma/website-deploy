@@ -3,11 +3,11 @@ import React from "react";
 
 const Hero1 = () => {
   const options = [
-    { value: 0, display: "Select insurance type.." },
-    { value: 1, display: "Life Insurance" },
-    { value: 2, display: "Health insurance" },
-    { value: 3, display: "Property insurance" },
-    { value: 4, display: "Motor insurance" },
+    { value: 0, display: "Select from our offerings .." },
+    { value: 1, display: "Website Design & Development" },
+    { value: 2, display: "Application Design & Development" },
+    { value: 3, display: "Consultation" },
+    { value: 4, display: "Dont know" },
   ];
 
   const handleSubmit = (event) => {
@@ -24,7 +24,7 @@ const Hero1 = () => {
             data-aos="fade-up"
           >
             <h1 className="hero-heading fw-500 tx-dark">
-              Everything for your <span>Home</span> &amp; Future.
+              Everything for your <span>Business</span>.
             </h1>
             <p className="text-lg tx-dark mt-45 mb-50 lg-mt-30 lg-mb-40">
               Instant everything. Incredible prices. Big heart.
@@ -43,18 +43,18 @@ const Hero1 = () => {
               <input
                 type="text"
                 className="zip-code-input"
-                placeholder="Your Zip code"
+                placeholder="your email"
               />
               <button className="fw-500 text-white tran3s" type="submit">
-                Search
+                Contact Us
               </button>
             </form>
             {/* End form */}
 
             <div>
               <div className="approval-info d-inline-flex align-items-center mt-130 lg-mt-80">
-                <img src="/images/icon/icon_99.svg" alt="" className="me-1" />
-                <span>An UK insurer approved by the UICO.</span>
+                {/* <img src="/images/icon/icon_99.svg" alt="" className="me-1" /> */}
+                {/* <span>An UK insurer approved by the UICO.</span> */}
               </div>
             </div>
           </div>

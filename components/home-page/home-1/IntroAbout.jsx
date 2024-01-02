@@ -72,7 +72,7 @@ const IntroAbout = () => {
               width={561}
               height={732}
               layout="intrinsic"
-              src="/images/media/img_53.png"
+              src="/images/media/img_101.jpg"
               className="lazy-img avatar-img"
               alt="man"
             />
