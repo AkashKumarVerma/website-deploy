@@ -23,6 +23,10 @@ const Hero1 = () => {
             className="col-lg-9 col-md-10 m-auto text-center"
             data-aos="fade-up"
           >
+						{/* <h1 className="hero-heading fw-500 tx-dark">
+              Your own personal <br /><span>Techie</span>.
+            </h1> */}
+
             <h1 className="hero-heading fw-500 tx-dark">
               Everything for your <span>Business</span>.
             </h1>

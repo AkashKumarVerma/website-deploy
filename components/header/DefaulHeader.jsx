@@ -23,7 +23,7 @@ const DefaulHeader = () => {
 
   return (
     <header
-      className={`theme-main-menu sticky-menu theme-menu-eight border-bottom ${
+      className={`theme-main-menu sticky-menu theme-menu-eight border-bottoms ${
         navbar ? "fixed" : ""
       }`}
     >
@@ -55,7 +55,7 @@ const DefaulHeader = () => {
             </Link>
           </div>{" "}
           {/* /.right-widget */}
-          <MainMenu />
+          {/* <MainMenu /> */}
         </div>
       </div>
       {/* /.inner-content */}

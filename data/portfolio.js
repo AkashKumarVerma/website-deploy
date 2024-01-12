@@ -4,7 +4,7 @@ module.exports = [
     category: "application dev",
     name: "Minimal Iphone",
     tag: "Design",
-    image: "/images/gallery/img_10.jpg",
+    image: "/images/portfolio/design/qring_1_thumbnail.png",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -16,7 +16,7 @@ module.exports = [
     category: "design marketing",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_11.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -28,7 +28,7 @@ module.exports = [
     category: "application design marketing",
     name: "Minimal Iphone",
     tag: "Design",
-    image: "/images/gallery/img_12.jpg",
+    image: "/images/portfolio/design/qring_1_thumbnail.png",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -40,7 +40,7 @@ module.exports = [
     category: "design dev",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_13.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -52,7 +52,7 @@ module.exports = [
     category: "application dev",
     name: "Minimal Iphone",
     tag: "Design",
-    image: "/images/gallery/img_14.jpg",
+    image: "/images/portfolio/design/qring_1_thumbnail.png",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -64,7 +64,7 @@ module.exports = [
     category: "design marketing",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_15.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -76,7 +76,7 @@ module.exports = [
     category: "application design marketing",
     name: "Minimal Iphone",
     tag: "Design",
-    image: "/images/gallery/img_16.jpg",
+    image: "/images/portfolio/design/qring_1_thumbnail.png",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -88,7 +88,7 @@ module.exports = [
     category: "design dev",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_17.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -100,7 +100,7 @@ module.exports = [
     category: "application dev",
     name: "Minimal Iphone",
     tag: "Design",
-    image: "/images/gallery/img_18.jpg",
+    image: "/images/portfolio/design/qring_1_thumbnail.png",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -112,7 +112,7 @@ module.exports = [
     category: "design marketing",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_19.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -124,7 +124,7 @@ module.exports = [
     category: "application design marketing",
     name: "Minimal Iphone",
     tag: "Design",
-    image: "/images/gallery/img_20.jpg",
+    image: "/images/portfolio/design/qring_1_thumbnail.png",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -136,7 +136,7 @@ module.exports = [
     category: "design dev",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_21.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -148,7 +148,7 @@ module.exports = [
     category: "application dev",
     name: "Minimal Iphone",
     tag: "Design",
-    image: "/images/gallery/img_22.jpg",
+    image: "/images/portfolio/design/qring_1_thumbnail.png",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -160,7 +160,7 @@ module.exports = [
     category: "design marketing",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_23.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -172,7 +172,7 @@ module.exports = [
     category: "application design marketing",
     name: "Minimal Iphone",
     tag: "Design",
-    image: "/images/gallery/img_24.jpg",
+    image: "/images/portfolio/design/qring_1_thumbnail.png",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -184,7 +184,7 @@ module.exports = [
     category: "design dev",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_25.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -196,7 +196,7 @@ module.exports = [
     category: "design dev",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_26.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -208,7 +208,7 @@ module.exports = [
     category: "application dev",
     name: "Minimal Iphone",
     tag: "Design",
-    image: "/images/gallery/img_27.jpg",
+    image: "/images/portfolio/design/qring_1_thumbnail.png",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -220,7 +220,7 @@ module.exports = [
     category: "design marketing",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_28.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -232,7 +232,7 @@ module.exports = [
     category: "application design marketing",
     name: "Minimal Iphone",
     tag: "Design",
-    image: "/images/gallery/img_29.jpg",
+    image: "/images/portfolio/design/qring_1_thumbnail.png",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -244,7 +244,7 @@ module.exports = [
     category: "design dev",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_30.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -256,7 +256,7 @@ module.exports = [
     category: "application dev",
     name: "Minimal Iphone",
     tag: "Design",
-    image: "/images/gallery/img_31.jpg",
+    image: "/images/portfolio/design/qring_1_thumbnail.png",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -268,7 +268,7 @@ module.exports = [
     category: "design marketing",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_32.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -280,7 +280,7 @@ module.exports = [
     category: "application design marketing",
     name: "Minimal Iphone",
     tag: "Design",
-    image: "/images/gallery/img_33.jpg",
+    image: "/images/portfolio/design/qring_1_thumbnail.png",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -292,7 +292,7 @@ module.exports = [
     category: "design dev",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_34.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -304,7 +304,7 @@ module.exports = [
     category: "application dev",
     name: "Minimal Iphone",
     tag: "Design",
-    image: "/images/gallery/img_35.jpg",
+    image: "/images/portfolio/design/qring_1_thumbnail.png",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -316,7 +316,7 @@ module.exports = [
     category: "design marketing",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_36.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -328,7 +328,7 @@ module.exports = [
     category: "application design marketing",
     name: "Minimal Iphone",
     tag: "Design",
-    image: "/images/gallery/img_37.jpg",
+    image: "/images/portfolio/design/qring_1_thumbnail.png",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -340,7 +340,7 @@ module.exports = [
     category: "design dev",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_38.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -352,7 +352,7 @@ module.exports = [
     category: "application dev",
     name: "Minimal Iphone",
     tag: "Design",
-    image: "/images/gallery/img_39.jpg",
+    image: "/images/portfolio/design/qring_1_thumbnail.png",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -364,7 +364,7 @@ module.exports = [
     category: "design marketing",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_39.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -376,7 +376,7 @@ module.exports = [
     category: "application design marketing",
     name: "Minimal Iphone",
     tag: "Design",
-    image: "/images/gallery/img_40.jpg",
+    image: "/images/portfolio/design/qring_1_thumbnail.png",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -388,7 +388,7 @@ module.exports = [
     category: "design dev",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_41.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -400,7 +400,7 @@ module.exports = [
     category: "design dev",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_42.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -412,7 +412,7 @@ module.exports = [
     category: "application dev",
     name: "Minimal Iphone",
     tag: "Design",
-    image: "/images/gallery/img_44.jpg",
+    image: "/images/portfolio/design/qring_1_thumbnail.png",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -424,7 +424,7 @@ module.exports = [
     category: "design marketing",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_45.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -436,7 +436,7 @@ module.exports = [
     category: "application design marketing",
     name: "Minimal Iphone",
     tag: "Design",
-    image: "/images/gallery/img_46.jpg",
+    image: "/images/portfolio/design/qring_1_thumbnail.png",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -448,7 +448,7 @@ module.exports = [
     category: "design dev",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_47.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -460,7 +460,7 @@ module.exports = [
     category: "design marketing",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_48.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -472,7 +472,7 @@ module.exports = [
     category: "application design marketing",
     name: "Minimal Iphone",
     tag: "Design",
-    image: "/images/gallery/img_49.jpg",
+    image: "/images/portfolio/design/qring_1_thumbnail.png",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -484,7 +484,7 @@ module.exports = [
     category: "application dev",
     name: "Minimal Iphone",
     tag: "Design",
-    image: "/images/gallery/img_50.jpg",
+    image: "/images/portfolio/design/qring_1_thumbnail.png",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -496,7 +496,7 @@ module.exports = [
     category: "design marketing",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_51.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -508,7 +508,7 @@ module.exports = [
     category: "application design marketing",
     name: "Minimal Iphone",
     tag: "Design",
-    image: "/images/gallery/img_52.jpg",
+    image: "/images/portfolio/design/qring_1_thumbnail.png",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -520,7 +520,7 @@ module.exports = [
     category: "design dev",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_53.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -532,7 +532,7 @@ module.exports = [
     category: "design marketing",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_54.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -544,7 +544,7 @@ module.exports = [
     category: "application dev",
     name: "Minimal Iphone",
     tag: "Design",
-    image: "/images/gallery/img_55.jpg",
+    image: "/images/portfolio/design/qring_1_thumbnail.png",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -556,7 +556,7 @@ module.exports = [
     category: "design marketing",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_56.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -568,7 +568,7 @@ module.exports = [
     category: "application design marketing",
     name: "Minimal Iphone",
     tag: "Design",
-    image: "/images/gallery/img_57.jpg",
+    image: "/images/portfolio/design/qring_1_thumbnail.png",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -580,7 +580,7 @@ module.exports = [
     category: "design dev",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_58.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -592,7 +592,7 @@ module.exports = [
     category: "design marketing",
     name: "Mobile Application",
     tag: "Appliction",
-    image: "/images/gallery/img_59.jpg",
+    image: "/images/portfolio/design/os/os_1.gif",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",
@@ -604,7 +604,7 @@ module.exports = [
     category: "application design marketing",
     name: "Minimal Iphone",
     tag: "Design",
-    image: "/images/gallery/img_60.jpg",
+    image: "/images/portfolio/design/qring_1_thumbnail.png",
     projectInfo: {
       date: "23 July, 2020",
       clientName: "Mariona Adisson, USA",

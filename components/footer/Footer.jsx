@@ -10,8 +10,8 @@ const Footer = () => {
         { label: "Home", href: "/" },
         { label: "Pricing", href: "/pricing" },
         { label: "About us", href: "/about-v1" },
-        { label: "Careers", href: "#" },
-        { label: "Features", href: "#" },
+        // { label: "Careers", href: "#" },
+        { label: "Services", href: "#" },
         { label: "Blog", href: "/blog-v2." },
       ],
     },
@@ -20,12 +20,10 @@ const Footer = () => {
       title: "Services",
       column: "col-lg-3 col-md-4 col-sm-6 mb-30",
       items: [
-        { label: "Health Insurance Plans", href: "/service-details" },
-        { label: "Car Insurance", href: "/service-details" },
-        { label: "Investment", href: "/service-details" },
-        { label: "Mediclaim Policy", href: "/service-details" },
-        { label: "Others", href: "/service-details" },
-        { label: "Health Insurance", href: "/service-details" },
+        { label: "Design", href: "/service-details" },
+        { label: "Development", href: "/service-details" },
+        { label: "Consultation", href: "/service-details" },
+        { label: "Support", href: "/service-details" },
       ],
     },
   ];
@@ -33,15 +31,15 @@ const Footer = () => {
   const socialIcons = [
     {
       iconClass: "fab fa-facebook-f",
-      link: "#",
+      link: "https://www.facebook.com/profile.php?id=61554986896943",
     },
     {
       iconClass: "fab fa-twitter",
-      link: "#",
+      link: "https://twitter.com/alchemycores",
     },
     {
       iconClass: "fab fa-linkedin-in",
-      link: "#",
+      link: "https://www.linkedin.com/in/alchemy-cores-779b7a2a9/",
     },
   ];
 
@@ -63,8 +61,8 @@ const Footer = () => {
       <div className="col-xl-3 col-lg-4 col-md-5 mb-30">
         <h5 className="footer-title text-white fw-500">Address</h5>
         <p className="text-white opacity-75 mb-35">
-          2190 Zinai terrace, Lake view <br />
-          house state, 10 no road.
+          Bulding No. 979, 3rd Main, D Block <br />
+          AECS Layout, Kundanhalli, Banglore 
         </p>
         <ul className="d-flex social-icon style-none">
           {socialIcons.map((icon, index) => (

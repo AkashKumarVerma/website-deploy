@@ -189,12 +189,12 @@ const Insurance = () => {
                       />
                       <div className="title-style-one">
                         <h2 className="main-title fw-500 tx-dark m0">
-                          Let’s talk with expereince advisors.
+                          Let’s talk.
                         </h2>
                       </div>
                       <p className="fs-20 tx-dark pt-20 m0">
-                        eiusmod tempor incididunt. Ut enim mim veniam, quis
-                        nostrud elit lorem dolor.
+                        Get in touch with us to discover and discuss the needs
+												for your business.
                       </p>
                     </div>
                   </div>
@@ -280,7 +280,7 @@ const Insurance = () => {
                   </Link>
                 </div>
                 <p className="text-white opacity-75 fs-18 mt-15 mb-45 lg-mb-10">
-                  Best Insurance Company.
+                  Your personal engineering & design team.
                 </p>
                 <p className="text-white opacity-50 fs-15 m0 d-none d-lg-block">
                   © {new Date().getFullYear()} - {new Date().getFullYear() + 1}{" "}
