@@ -31,9 +31,9 @@ const Hero1 = () => {
               Everything for your <span>Business</span>.
             </h1>
             <p className="text-lg tx-dark mt-45 mb-50 lg-mt-30 lg-mb-40">
-              Instant everything. Incredible prices. Big heart.
+              Your personal engineering and design team. <br /> Incredible prices. Big heart.
             </p>
-            <form
+            {/* <form
               className="search-area d-md-inline-flex m-auto"
               onSubmit={handleSubmit}
             >
@@ -52,15 +52,15 @@ const Hero1 = () => {
               <button className="fw-500 text-white tran3s" type="submit">
                 Contact Us
               </button>
-            </form>
+            </form> */}
             {/* End form */}
 
-            <div>
+            {/* <div>
               <div className="approval-info d-inline-flex align-items-center mt-130 lg-mt-80">
-                {/* <img src="/images/icon/icon_99.svg" alt="" className="me-1" /> */}
-                {/* <span>An UK insurer approved by the UICO.</span> */}
+                <img src="/images/icon/icon_99.svg" alt="" className="me-1" />
+                <span>An UK insurer approved by the UICO.</span>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

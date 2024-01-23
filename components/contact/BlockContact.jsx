@@ -5,21 +5,21 @@ const BlockContact = () => {
     {
       icon: "/images/icon/icon_147.svg",
       title: "Our Address",
-      content: "1012 Pebda Parkway, Mirpur 2 Dhaka, Bangladesh",
+      content: "Bulding No. 979, 3rd Main, D Block, AECS Layout, Kundanhalli, Banglore",
       delay: "100",
     },
     {
       icon: "/images/icon/icon_148.svg",
       title: "Contact Info",
       content: "Open a chat or give us call at",
-      link: "tel:310.841.5500",
+      link: "tel:7667505004",
       delay: "200",
     },
     {
       icon: "/images/icon/icon_149.svg",
       title: "Live Support",
       content: "live chat service",
-      link: "www.janolivechat.com",
+      link: "live.alchemycores.com",
       delay: "300",
     },
   ];

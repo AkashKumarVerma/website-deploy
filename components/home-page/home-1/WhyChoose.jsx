@@ -9,7 +9,7 @@ const accordionItems = [
   {
     id: 2,
     icon: "/images/icon/icon_109.svg",
-    title: "Cleanr & Quick",
+    title: "Clean & Quick",
     content:
       "We keep things simple and straightforward. Our process is easy to follow, keeping you informed all the way for a hassle-free experience.",
   },

@@ -124,7 +124,7 @@ const ServiceV1 = () => {
 				Feedback Section Eleven
 			=====================================================
 			*/}
-      <div
+      {/* <div
         className="feedback-section-eleven position-relative mt-50 pt-100 pb-70 lg-pt-70 lg-pb-50"
         data-aos="fade-up"
       >
@@ -133,19 +133,14 @@ const ServiceV1 = () => {
             <h2 className="main-title fw-500 tx-dark m0">Client Feedback</h2>
           </div>
         </div>
-        {/* End .container */}
         <div className="inner-content">
           <div className="slider-wrapper">
             <div className="feedback_slider_seven">
               <Testimonial />
             </div>
-            {/* /.feedback_slider_seven */}
           </div>
-          {/* /.slider-wrapper */}
         </div>
-        {/* /.inner-content */}
-      </div>
-      {/* /.feedback-section-eleven */}
+      </div> */}
 
       {/* 
 			=============================================
@@ -185,7 +180,7 @@ const ServiceV1 = () => {
         </div>
         {/* /.container */}
 
-        <div className="partner-section-six position-relative mt-130 lg-mt-80">
+        {/* <div className="partner-section-six position-relative mt-130 lg-mt-80">
           <div className="container">
             <div className="row align-items-center">
               <div className="col-lg-5">
@@ -197,12 +192,10 @@ const ServiceV1 = () => {
                 <div className="logo-wrapper text-center d-flex justify-content-center justify-content-lg-between flex-wrap">
                   <Partners />
                 </div>
-                {/* /.logo-wrapper */}
               </div>
             </div>
           </div>
-          {/* /.container */}
-        </div>
+        </div> */}
       </div>
       {/* /.partner-section-six */}
 

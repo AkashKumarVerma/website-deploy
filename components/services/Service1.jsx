@@ -3,34 +3,34 @@ import Link from "next/link";
 const services = [
   {
     iconSrc: "/images/icon/icon_104.svg",
-    title: "Home Loan",
+    title: "Development",
     delay: "100",
   },
   {
     iconSrc: "/images/icon/icon_105.svg",
-    title: "Travel Insurance",
+    title: "Design",
     delay: "200",
   },
   {
     iconSrc: "/images/icon/icon_106.svg",
-    title: "Insure the Car",
+    title: "Consultation",
     delay: "300",
   },
   {
     iconSrc: "/images/icon/icon_107.svg",
-    title: "Health Insurance",
+    title: "Support",
     delay: "100",
   },
-  {
-    iconSrc: "/images/icon/icon_141.svg",
-    title: "Life Insurance",
-    delay: "200",
-  },
-  {
-    iconSrc: "/images/icon/icon_142.svg",
-    title: "Family Inurance",
-    delay: "300",
-  },
+  // {
+  //   iconSrc: "/images/icon/icon_141.svg",
+  //   title: "Life Insurance",
+  //   delay: "200",
+  // },
+  // {
+  //   iconSrc: "/images/icon/icon_142.svg",
+  //   title: "Family Inurance",
+  //   delay: "300",
+  // },
 ];
 
 const Service1 = () => {
@@ -38,7 +38,7 @@ const Service1 = () => {
     <>
       {services.map((service, index) => (
         <div
-          className="col-lg-4 col-sm-6"
+          className="col-lg-3 col-sm-6"
           data-aos="fade-up"
           data-aos-delay={service.delay}
           key={index}

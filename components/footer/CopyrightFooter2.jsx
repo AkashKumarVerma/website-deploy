@@ -14,15 +14,15 @@ const links = [
 const icons = [
   {
     icon: "fab fa-facebook-f",
-    href: "https://www.facebook.com/",
+    href: "https://www.facebook.com/profile.php?id=61554986896943",
   },
   {
     icon: "fab fa-twitter",
-    href: "https://www.twitter.com/",
+    href: "https://twitter.com/alchemycores",
   },
   {
     icon: "fab fa-linkedin-in",
-    href: "https://www.linkedin.com/",
+    href: "https://www.linkedin.com/in/alchemy-cores-779b7a2a9/",
   },
 ];
 
@@ -72,9 +72,8 @@ const Footer = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                ib-themes
+                Alco.
               </a>
-              inc.
             </p>
           </div>
         </div>

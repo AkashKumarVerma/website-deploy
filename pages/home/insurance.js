@@ -179,7 +179,7 @@ const Insurance = () => {
           <div className="bg-wrapper zn2 bg-white position-relative">
             <div className="row">
               <div className="col-xl-11 m-auto">
-                <div className="row align-items-center">
+                <div className="row align-items-center" style={{ padding: "64px 0" }}>
                   <div className="col-lg-6 ms-auto order-lg-last">
                     <div className="text-wrapper">
                       <img
@@ -193,8 +193,7 @@ const Insurance = () => {
                         </h2>
                       </div>
                       <p className="fs-20 tx-dark pt-20 m0">
-                        Get in touch with us to discover and discuss the needs
-												for your business.
+												Let's talk! Unlock swift, tailored solutions. Fill the form and transform your ideas into reality.
                       </p>
                     </div>
                   </div>
@@ -231,7 +230,7 @@ const Insurance = () => {
       {/* =============================================
 		   Blog Section Three
 		   ============================================== */}
-      <div className="blog-section-three mt-140 mb-170 lg-mt-100 lg-mb-100">
+      {/* <div className="blog-section-three mt-140 mb-170 lg-mt-100 lg-mb-100">
         <div className="container">
           <div className="position-relative">
             <div className="row align-items-end">
@@ -242,14 +241,11 @@ const Insurance = () => {
                 >
                   <h2 className="main-title fw-500 tx-dark m0">Our Blog</h2>
                 </div>
-                {/* /.title-style-one */}
               </div>
             </div>
-            {/* /.row */}
             <div className="row gx-xxl-5">
               <Blog />
             </div>
-            {/* /.row */}
             <div className="text-center xs-mt-40">
               <Link
                 href="/blog/blog-v2"
@@ -261,7 +257,7 @@ const Insurance = () => {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
       {/* /.blog-section-three */}
       {/*
 			=====================================================
@@ -284,7 +280,7 @@ const Insurance = () => {
                 </p>
                 <p className="text-white opacity-50 fs-15 m0 d-none d-lg-block">
                   © {new Date().getFullYear()} - {new Date().getFullYear() + 1}{" "}
-                  jano inc.
+                  alco.
                 </p>
               </div>
               <Footer />

@@ -9,19 +9,19 @@ const IntroAbout = () => {
       id: 1,
       cardNo: "card-one",
       title: "Happier",
-      subtitle: "Customers",
+      subtitle: "Swift Solutions",
     },
     {
       id: 2,
       title: "30+",
       cardNo: "card-two",
-      subtitle: "Insurance Item",
+      subtitle: "Clear Communication",
     },
     {
       id: 3,
       title: "Saller Leads",
       cardNo: "card-three",
-      subtitle: "Who are listing soon",
+      subtitle: "Tailored Understanding",
     },
   ];
 
@@ -38,24 +38,27 @@ const IntroAbout = () => {
       <div className="row">
         <div className="col-xl-5 col-md-6 order-md-last">
           <div className="text-wrapper md-pb-70">
-            <Image
+            {/* <Image
               width={66}
               height={66}
               src="/images/icon/icon_103.svg"
               alt="icon"
               className="lazy-img cursor-pointer"
               onClick={() => setOpen(true)}
-            />
+            /> */}
             <p className="tx-dark pt-30 pb-30 md-pb-15" data-aos="fade-up">
+							We're a tight-knit team of devs and designers, devoted to personalized client services, crafting unique solutions for each project.
+
+							{/* We are a small group of developers and designer 
               The team signed <span className="fw-500">~$7,000,000</span> in new
-              business in July. Accelerator has been a large part of that.
+              business in July. Accelerator has been a large part of that. */}
             </p>
-            <h6
+            {/* <h6
               className="fs-20 tx-dark d-inline-block fst-italic position-relative ps-4"
               data-aos="fade-up"
             >
               Jessica Woodbeck
-            </h6>
+            </h6> */}
           </div>
           {/* /.text-wrapper */}
         </div>
@@ -68,14 +71,14 @@ const IntroAbout = () => {
               alt="shape"
               className="lazy-img"
             />
-            <Image
+            {/* <Image
               width={561}
               height={732}
               layout="intrinsic"
               src="/images/media/img_101.jpg"
               className="lazy-img avatar-img"
               alt="man"
-            />
+            /> */}
 
             {cardsData.map((item) => (
               <div
@@ -86,8 +89,8 @@ const IntroAbout = () => {
                   <i className="bi bi-check-lg" />
                 </div>
                 <div className="ps-2 ps-lg-4">
-                  <h3>{item.title}</h3>
                   <p className="fs-20 tx-dark m0">{item.subtitle}</p>
+                  {/* <h3>{item.title}</h3> */}
                 </div>
               </div>
             ))}

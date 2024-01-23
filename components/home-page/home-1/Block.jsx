@@ -11,7 +11,7 @@ const Block = () => {
         </div>
         <div className="col-md-7 col-sm-8" data-aos="fade-down">
           <div className="block-wrapper block-one">
-            <h3 style={{ color: "#FFAE10" }}>10+ Services</h3>
+            <h3 style={{ color: "#FFAE10" }}>Services</h3>
             <p>Variety of services to support all your needs in one place.</p>
           </div>
           {/* /.block-wrapper */}
@@ -23,7 +23,7 @@ const Block = () => {
         <div className="col-sm-7" data-aos="fade-down">
           <div className="block-wrapper block-two position-relative mt-50 sm-mt-30">
             <h3 style={{ color: "#9650EF" }}>
-              10+ <br />
+              {/* 10+ <br /> */}
               <span>Prebuilt Solutions</span>
             </h3>
             <p>

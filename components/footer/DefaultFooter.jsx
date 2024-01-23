@@ -10,10 +10,11 @@ const DefaultFooter = () => {
         <div className="container">
           <div className="row justify-content-between">
             <div className="col-xl-2 footer-intro mb-40">
-              <div className="logo">
-                <Link href="/">
-                  <img src="/images/logo/logo_01.png" alt="brand" />
-                </Link>
+              <div className="logo logo-footer logo-footer-alt">
+								<Link href="/">
+									Alco.
+									{/* <img src="/images/logo/logo_02.png" alt="logo" width={95} /> */}
+								</Link>
               </div>
             </div>
             {/* End .col */}

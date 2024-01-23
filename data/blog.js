@@ -1,23 +1,23 @@
 module.exports = [
   {
     id: 1,
-    imageSrc: "/images/blog/blog_img_09.jpg",
+    imageSrc: "/images/blog/blog_1.png",
     date: "23 Apr, 2022",
-    title: "A Discount Cartridge dsu is Better Ever.",
+    title: "The Art of User-Centric Design: Enhancing Digital Experiences",
     delay: "100",
   },
   {
     id: 2,
-    imageSrc: "/images/blog/blog_img_10.jpg",
+    imageSrc: "/images/blog/blog_2.png",
     date: "14 March, 2022",
-    title: "Truck Side Advertising Isn It Time for action.",
+    title: "Navigating the Latest Trends in Web Development: A Comprehensive Guide",
     delay: "200",
   },
   {
     id: 3,
-    imageSrc: "/images/blog/blog_img_11.jpg",
+    imageSrc: "/images/blog/blog_3.png",
     date: "27 Feb, 2022",
-    title: "A Discount Cartridge dsu is Better Ever.",
+    title: "Revolutionizing E-Commerce: Integrating NFTs and Cryptocurrency Payments",
     delay: "300",
   },
   {
